@@ -1,0 +1,11 @@
+<div>
+  <h1>Bienvenido a All handball</h1>
+  <h2>Productos:</h2>
+  {{#each products}}
+    <div>
+      <h3>Articulo: {{this.title}}</h3>
+      <p>{{this.description}}</p>
+      <span>$ {{this.price}}</span>
+    </div>
+  {{/each}}
+</div>

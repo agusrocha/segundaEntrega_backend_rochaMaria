@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Pelota n1 balonmano Molten",
+    "description": "Textura adecuada para la prension.",
+    "code": "PELN1",
+    "price": 100,
+    "status": true,
+    "stock": 30
+    
+  },
+  {
+    "id": 2,
+    "title": "Pelota n2 balonmano Select",
+    "description": "Cuero, cocido a maquina.",
+    "code": "PELN2",
+    "price": 150,
+    "status": true,
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "title": "Pelota n3 balonmano Striker.",
+    "description": "Goma, vulcanizada",
+    "code": "PELN3",
+    "price": 180,
+    "status": true,
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "title": "Silbato Fox",
+    "description": "Plastico con cordon.",
+    "code": "SILF",
+    "price": 50,
+    "status": true,
+    "stock": 5
+  },
+  {
+    "id": 5,
+    "title": "Pizarra tactica balonmano",
+    "description": "De metal con 2 equipos de 16 imanes",
+    "code": "PIZ",
+    "price": 200,
+    "status": true,
+    "stock": 10
+  }
+]
